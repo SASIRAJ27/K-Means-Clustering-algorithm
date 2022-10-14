@@ -57,8 +57,7 @@ Declare a variable predcited_class to kmean.predict([[]]) and give two arguments
 
 ### Step17: 
 Display the predicted_class
-
-
+<br>
 
 ## Program:
 ``` PYTHON
